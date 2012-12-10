@@ -74,4 +74,4 @@ Themes
 * Process
 * Practice
 
-[format]: http://www.spaconference.org/spa2013/formats.html
+[formats]: http://www.spaconference.org/spa2013/formats.html
